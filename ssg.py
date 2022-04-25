@@ -1,2 +1,4 @@
-from ssg import login
-login()
+from ssg import main
+main()
+
+
