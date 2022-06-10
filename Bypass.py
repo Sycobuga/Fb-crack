@@ -87,7 +87,7 @@ logo =                                          """
 \033[1;92m ⇨CRACK     : TANGAL 10 MEI 2022
 \033[1;92m ｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡""" 
 
-def sarfraz():
+def sonu():
 
     os.system('clear')
     print(logo)
